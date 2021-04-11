@@ -1,0 +1,14 @@
+body{
+    margin-top: 20%;
+}
+.timer{
+    margin-left: 30%;
+    margin-right: 30%;
+    color: brown;
+    background-color: cyan;
+    text-align: center;
+    font-size: 40px;
+    border-radius: 5px;
+    border: 1px solid red;
+    font-family: cursive;
+}
